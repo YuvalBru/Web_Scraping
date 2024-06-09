@@ -3,7 +3,7 @@
 
 #### In this project we examine a market type  website, https://www.ad.co.il/ which sells different type of goods.
 
-##### We examine the site and web scrape using BeautifulSoup4 library in a Jupyter Notebook environment extracting all of the details regarding Renu manufactured cars between the years 1980-2015. We obtain the data and build a 70x20 pandas data frame in order to later on in the project create a Machine Learning model.
+##### We examine the site and web scrape using BeautifulSoup4 library in a Jupyter Notebook environment extracting all of the details regarding Renu manufactured cars between the years 1980-2015. We obtain the data and build a 72x20 pandas data frame in order to later on in the project create a Machine Learning model.
 
 
 
@@ -15,4 +15,4 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 
-#### The features  for each car which falls under the aforementioned criteria will be used in order to create an effective and hopefully accurate Machine Learning Model. 
+#### The features  for each car which falls under the aforementioned criteria will be used in order to create an effective and hopefully accurate Machine Learning Model in order to predict the price of a car.
